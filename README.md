@@ -1,2 +1,2 @@
-This is a game in progress for my January #onegameamonth submission. 
+An animal matching game in hiatus. Not being actively worked on.
 Uses ImpactJS engine, which is not included in this repo.
